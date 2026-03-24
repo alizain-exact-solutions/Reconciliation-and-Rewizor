@@ -1,0 +1,6 @@
+pydantic is not being used, there are simple dicts, make them pydantic basemodels.
+
+Meeting with Rida for Rewizor related questions -> Michal redirected. 
+Get the invoices of latest transactions in the database for real matching.  
+
+check if currency is being converted or not, PLN -> EUR. If yes, it must be hardcoded, need to fix it. 
